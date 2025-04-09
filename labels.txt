@@ -1,0 +1,9 @@
+0 AllDone
+1 ILoveYou
+2 Please
+3 ThankYou
+4 Water
+5 Yes
+6 Camera
+7 Help
+8 More
