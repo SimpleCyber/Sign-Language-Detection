@@ -8,7 +8,7 @@ Sign Quality Detector is a web application that uses a machine learning model to
 
 ## Hosted App
 The application is live and hosted at:
-[https://Sign-classify.onrender.com/](https://Sign-classify.onrender.com/)
+[https://sign-classify.onrender.com](https://sign-classify.onrender.com)
 
 ## Key Learning
 To successfully deploy this app on Streamlit, use TensorFlow and Keras version **2.15.0**.
