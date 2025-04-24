@@ -1,7 +1,7 @@
 # Sign Quality Detector
 
 ## Overview
-Sign Quality Detector is a web application that uses a machine learning model to classify Signs as either **Good** or **Spoiled**. This project demonstrates how TensorFlow and Keras can be used to build and deploy a Sign classification system on Streamlit.
+Sign Language Detector is a web application that uses a machine learning model to classify different american Signs. This project demonstrates how TensorFlow and Keras can be used to build and deploy a Sign classification system on Streamlit.
 
 ![Project Preview](project.png)
 
